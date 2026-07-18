@@ -153,7 +153,21 @@ THREE-DAY RIGHT OF RESCISSION (TEXAS BUSINESS AND COMMERCIALS CODE § 61.003): F
 
 ---
 
-CLIENT ACKNOWLEDGMENT AND CONSENT
+13. ARTIFICIAL INTELLIGENCE AND FACIAL LIKENESS PROTECTION
+
+13.1 Photographer shall not use, license, or permit the use of any Work Product containing Client's or any Subject's facial likeness, biometric data, or other personally identifiable physical features for the purpose of training, fine-tuning, or developing artificial intelligence models, machine learning systems, facial recognition systems, or generative AI tools designed to replicate, reconstruct, simulate, or generate a digital likeness, avatar, deepfake, or synthetic representation of Client or any Subject.
+
+13.2 The Work Product shall not be used by Photographer or any authorized licensee to create AI-generated portraits, face swaps, digital twins, or any synthetic media that reproduces or imitates the facial identity or physical appearance of Client or any Subject.
+
+13.3 Notwithstanding the foregoing, Photographer may use artificial intelligence tools for legitimate post-production purposes as described in Section 5.4 of this Agreement, including but not limited to background replacement, color correction, noise reduction, upscaling, style transfers, and general image enhancement, provided that such use does not involve the regeneration or synthesis of Client's or any Subject's facial likeness or identity.
+
+13.4 THIRD-PARTY MISUSE DISCLAIMER: Client acknowledges and agrees that once Work Product is published, displayed, or distributed publicly (whether by Photographer, Client, or any authorized party), Photographer has no control over and assumes no responsibility or liability for any unauthorized use of such publicly available Work Product by third parties, including but not limited to the use of published images by bad actors to create AI-generated content, deepfakes, synthetic media, or any other unauthorized reproductions. Photographer shall not be held liable for any damages, claims, or losses arising from such third-party misuse of publicly available Work Product.
+
+13.5 Client understands that no technology or contractual provision can fully prevent the misuse of publicly available images by unauthorized third parties, and that this Section 13 represents Photographer's good-faith commitment to responsible use of AI technology within Photographer's own operations and authorized licensing activities.
+
+---
+
+ACKNOWLEDGMENT AND CONSENT
 
 By typing my full name in the signature field below and selecting "I Agree," I, the undersigned Client, acknowledge that I have read this Standard Release Agreement in its entirety, understand its terms, and voluntarily agree to be bound by all provisions contained herein. I consent to the capture, use, distribution, licensing, and publication of the Work Product as described above. I understand this Agreement is governed by Texas law and that any disputes shall be resolved in Travis County, Texas.
 
